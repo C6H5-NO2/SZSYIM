@@ -1,0 +1,2 @@
+-optimizationpasses 5
+-keepattributes SourceFile,LineNumberTable
